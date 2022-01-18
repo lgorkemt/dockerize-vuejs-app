@@ -13,7 +13,7 @@
 
 docker build -t vuejs-cookbook/dockerize-vuejs-app .
 
-- run an isntance of your image with the command:
+- run an instance of your image with the command:
 
 docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs-cookbook/dockerize-vuejs-app
 
