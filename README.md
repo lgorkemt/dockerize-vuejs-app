@@ -19,7 +19,7 @@ docker run -it -p 8080:8080 --rm --name dockerize-vuejs-app-1 vuejs-cookbook/doc
 
 - check the docker instance is running with the command; docker ps
 
-- Then go to localhost:8080 and see the app is Hello world! app is running
+- Then go to localhost:8080 and see the Hello world! displayed.
 
 
 ## Project setup
